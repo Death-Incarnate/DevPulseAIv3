@@ -1,6 +1,8 @@
 
 # DevPulseAI v3 — Autonomous Signal Intelligence Platform
 
+[![Follow @DeadManAI](https://img.shields.io/badge/Follow-@DeadManAI-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DeadManAI)
+
 > **Ingest. Analyze. Deliver.**
 > Real-time technical intelligence powered by multi-agent AI, cost-aware model routing, and Model Context Protocol (MCP).
 
@@ -383,3 +385,8 @@ DevPulseAIv2/
 
 > **Built with ❤️ by Hill Patel.**
 > _Powered by Gemini · Supabase · Pinecone · MCP_
+
+
+---
+
+Built by [@DeadManAI](https://x.com/DeadManAI) — Army vet. AI builder. Founder of Dead Empire.
