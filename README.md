@@ -1,7 +1,21 @@
+# DevPulseAIv3
 
-# DevPulseAI v3 — Autonomous Signal Intelligence Platform
+Technical signal intelligence platform for aggregating, ranking, and analyzing high-value developer and research signals.
 
-[![Follow @DeadManAI](https://img.shields.io/badge/Follow-@DeadManAI-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DeadManAI)
+This repository is my adaptation of earlier DevPulse work. It is not the original upstream project. The version here is focused on my own architecture, deployment choices, workflow experiments, and extensions.
+
+## Scope Of This Repository
+
+This version focuses on:
+
+- ingesting signals from technical sources
+- ranking and filtering relevance
+- routing signals through analysis workflows
+- exposing results through APIs and interfaces
+
+## Provenance
+
+This repository is derived from earlier upstream DevPulse work. Original authorship of the base project remains with the upstream authors unless explicitly documented otherwise here.
 
 > **Ingest. Analyze. Deliver.**
 > Real-time technical intelligence powered by multi-agent AI, cost-aware model routing, and Model Context Protocol (MCP).
@@ -281,8 +295,8 @@ Channels: **Discord** (webhook embeds), **Slack** (Block Kit), **Email** (Resend
 
 ```bash
 # Clone
-git clone https://github.com/STiFLeR7/DevPulseAIv2.git
-cd DevPulseAIv2
+git clone https://github.com/Death-Incarnate/DevPulseAIv3.git
+cd DevPulseAIv3
 
 # Backend
 pip install -r requirements.txt
@@ -383,10 +397,6 @@ DevPulseAIv2/
 
 ---
 
-> **Built with ❤️ by Hill Patel.**
-> _Powered by Gemini · Supabase · Pinecone · MCP_
+## Attribution
 
-
----
-
-Built by [@DeadManAI](https://x.com/DeadManAI) — Army vet. AI builder. Founder of Dead Empire.
+This repository builds on prior upstream work. See commit history and repository provenance for lineage.
